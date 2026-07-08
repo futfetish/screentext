@@ -1,5 +1,5 @@
-#!/bin/bash
+#!/bin/bash 
 
-cd ~/project/screentext #свой путь
+cd "$(dirname "$0")"
 source .venv/bin/activate
 python main.py
