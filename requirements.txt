@@ -1,0 +1,9 @@
+asarPy==1.0.1
+Cython==3.2.5
+Mako==1.3.12.dev0
+Markdown==3.10.2
+MarkupSafe==3.0.3
+meson==1.9.2
+packaging==26.2
+setuptools==80.10.2
+wheel==0.47.0
