@@ -8,6 +8,7 @@ Features:
 
 - Take screenshots using xdg-desktop-portal
 - Extract text with Tesseract OCR
+- Image preprocessing with OpenCV: upscaling of small text, dark themes, gradient / noisy / colorful backgrounds, colored text, mixed light and dark areas. Several variants are recognized in parallel and the most confident result is used
 - Supports multiple 3 languages (en, ru, jp)
 
 

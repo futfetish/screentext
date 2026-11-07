@@ -7,3 +7,5 @@ meson==1.9.2
 packaging==26.2
 setuptools==80.10.2
 wheel==0.47.0
+numpy
+opencv-python-headless
